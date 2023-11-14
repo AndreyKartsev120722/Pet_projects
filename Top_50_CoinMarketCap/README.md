@@ -3,9 +3,7 @@
 **Статус проекта:** *на доработке*
 
 **Инструменты:**
-- Python
-- Pandas
-- Matplotlib 
+- Python, Pandas, Requests, CSV, Matplotlib 
 
 **Планируемые доработки:** 
 - планируется создание дашборда в Tableau или Power BI
